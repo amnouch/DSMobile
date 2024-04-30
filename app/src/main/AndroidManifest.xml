@@ -22,6 +22,15 @@
             android:name=".Activities.ProductViewsActivity"
             android:exported="false" />
         <activity
+            android:name=".Activities.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.welcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.signupActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activities.LoginActivity"
             android:exported="false" />
         <activity
